@@ -1,1 +1,1 @@
-# medical-insurance-price-predictor
+# Medical Insurance Price Predictor
